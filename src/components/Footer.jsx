@@ -84,9 +84,6 @@ export default function Footer({ onOpenResume }) {
           <div>
             © {new Date().getFullYear()} Daksh Sathwara. All rights reserved.
           </div>
-          <div style={{ display: 'flex', alignItems: 'center', gap: '4px' }}>
-            Built with React.js & inspired by Benjamin Creative
-          </div>
         </div>
 
       </div>
