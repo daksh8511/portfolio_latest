@@ -79,7 +79,7 @@ export default function Hero({ onOpenResume }) {
         <div style={{ display: 'flex', flexWrap: 'wrap', gap: '16px', marginBottom: '56px' }}>
           <a href="#projects" className="btn-primary">
             <Zap size={18} />
-            <span>Explore E-Commerce Projects</span>
+            <span>Explore Projects</span>
           </a>
 
           <a 
